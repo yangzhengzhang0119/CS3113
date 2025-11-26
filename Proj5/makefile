@@ -1,5 +1,5 @@
 # Source and target
-SRCS = main.cpp CS3113/cs3113.cpp CS3113/Entity.cpp CS3113/Player.cpp CS3113/Map.cpp CS3113/Camera.cpp CS3113/Page.cpp CS3113/Exit.cpp CS3113/SlenderMan.cpp CS3113/ShaderProgram.cpp
+SRCS = main.cpp CS3113/cs3113.cpp CS3113/Entity.cpp CS3113/Player.cpp CS3113/Map.cpp CS3113/Camera.cpp CS3113/Page.cpp CS3113/Exit.cpp CS3113/SlenderMan.cpp CS3113/ShaderProgram.cpp CS3113/Scene.cpp CS3113/MenuScene.cpp CS3113/GameScene.cpp
 TARGET = raylib_app
 
 # OS detection (macOS = Darwin, Windows via MinGW = MINGW*)
