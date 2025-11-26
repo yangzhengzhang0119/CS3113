@@ -1,4 +1,3 @@
-// header
 #include "Scene.h"
 
 // default
